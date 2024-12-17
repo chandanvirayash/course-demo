@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "course_id": "C101",
+        "title": "Introduction to Quantum Knitting",
+        "description": "Learn the fundamentals of quantum mechanics and apply them to advanced knitting techniques.",
+        "duration": "8 weeks",
+        "instructor": {
+          "name": "Dr. Ada Stringfield",
+          "email": "ada.stringfield@example.com"
+        },
+        "schedule": {
+          "start_date": "2024-01-15",
+          "end_date": "2024-03-11",
+          "weekly_sessions": [
+            "Monday 6:00 PM - 8:00 PM",
+            "Wednesday 6:00 PM - 8:00 PM"
+          ]
+        },
+        "prerequisites": ["Basic Knitting Skills", "Introduction to Quantum Physics"],
+        "fee": 150.0
+      },
+      {
+        "course_id": "C102",
+        "title": "Advanced Alchemy for Beginners",
+        "description": "Discover the secrets of turning everyday materials into gold (theoretically).",
+        "duration": "6 weeks",
+        "instructor": {
+          "name": "Prof. Merlin Goldsmith",
+          "email": "merlin.goldsmith@example.com"
+        },
+        "schedule": {
+          "start_date": "2024-02-01",
+          "end_date": "2024-03-15",
+          "weekly_sessions": [
+            "Tuesday 7:00 PM - 9:00 PM",
+            "Thursday 7:00 PM - 9:00 PM"
+          ]
+        },
+        "prerequisites": ["None"],
+        "fee": 200.0
+      },
+      {
+        "course_id": "C103",
+        "title": "Ethical Hacking for Cats Beginners",
+        "description": "Teach your feline friends the art of ethical hacking and cybersecurity basics.",
+        "duration": "4 weeks",
+        "instructor": {
+          "name": "Ms. Whiskers Purrlock",
+          "email": "whiskers.purrlock@example.com"
+        },
+        "schedule": {
+          "start_date": "2024-03-10",
+          "end_date": "2024-04-07",
+          "weekly_sessions": [
+            "Saturday 10:00 AM - 12:00 PM",
+            "Sunday 10:00 AM - 12:00 PM"
+          ]
+        },
+        "prerequisites": ["Feline Citizenship", "Basic Internet Skills"],
+        "fee": 75.0
+      }
+    ]
+  }
+  
